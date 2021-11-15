@@ -106,8 +106,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "future computer scientist!"
   location         : "Yongin, Korea"
-  email            : shinyheeyeon@gmail.com
-  links: https://www.instagram.com/shinyheeyeon/
+  email            : "shinyheeyeon@gmail.com"
+  links: "https://www.instagram.com/shinyheeyeon"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
